@@ -48,4 +48,3 @@ def test():
     print(model)
     print(preds.shape)
     
-test()
