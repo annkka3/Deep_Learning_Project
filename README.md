@@ -12,7 +12,7 @@ This is the final project of the FW22 Deep Learning School on Stepic
 
 Здесь сохранены веса обученной модели, их можно скачать по [ссылке.](https://drive.google.com/file/d/1N0DR8rL3Y8abHb2R4SZbfJrUny218PGW/view?usp=share_link)
 
-Результаты можно увидеть в следующей папке [link](https://github.com/annkka3/Deep_Learning_Project#:~:text=Maps_Samples_Generated)
+Примеры результатов можно увидеть в следующей папке [link](https://github.com/annkka3/Deep_Learning_Project#:~:text=Maps_Samples_Generated)
 
 ## Примеры
 
