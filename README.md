@@ -10,7 +10,7 @@ This is the final project of the FW22 Deep Learning School on Stepic
 
 Сам датасет можно скачать по ссылке из Kaggle: [link](https://www.kaggle.com/datasets/vikramtiwari/pix2pix-dataset).
 
-Процесс обучения и модель представлены в [ноутбуке](https://github.com/annkka3/Deep_Learning_Project/commit/b874cf385adfaa17298aa8bde9156e41051d76a0)
+Процесс обучения и модель представлены в [ноутбуке](maps-training-pix2pix.ipynb)
 
 Так же в репозитории отдельно сохранены модели [generator](https://github.com/annkka3/Deep_Learning_Project/blob/main/generator.py) и [discriminator](https://github.com/annkka3/Deep_Learning_Project/blob/main/discriminator.py) Pix2Pix.
 
