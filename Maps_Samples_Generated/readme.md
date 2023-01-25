@@ -1,0 +1,15 @@
+# Pix2Pix MapDataSet Examples
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Maps_Samples_Generated/sample_transformation18.07.30.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Maps_Samples_Generated/sample_transformation18.08.55.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Maps_Samples_Generated/sample_transformation18.09.25.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Maps_Samples_Generated/sample_transformation18.10.03.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Maps_Samples_Generated/sample_transformation18.10.42.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Maps_Samples_Generated/sample_transformation18.11.23.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Maps_Samples_Generated/sample_transformation18.12.24.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Maps_Samples_Generated/sample_transformation18.16.16.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Maps_Samples_Generated/sample_transformation18.19.12.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Maps_Samples_Generated/sample_transformation18.21.58.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Maps_Samples_Generated/sample_transformation18.22.25.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Maps_Samples_Generated/sample_transformation18.22.53.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Maps_Samples_Generated/sample_transformation18.45.17.png)
