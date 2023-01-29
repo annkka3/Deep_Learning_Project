@@ -100,7 +100,33 @@
 
 
 
-Полный каталог с иллюстрациями полученными в обучении представлен ниже:
+Полный каталог с иллюстрациями полученными в обучении представлен ниже в папке [Coloring_L_ab samples](https://github.com/annkka3/Deep_Learning_Project/tree/main/Coloring_L_ab%20samples)
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring_L_ab%20samples/samples_gen%2021.53.40.png)
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring_L_ab%20samples/samples_gen%2021.54.32.png)
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring_L_ab%20samples/samples_gen%2022.05.09.png)
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring_L_ab%20samples/samples_gen%2022.06.25.png)
+
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring_L_ab%20samples/samples_gen%2022.07.38.png)
+
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring_L_ab%20samples/samples_gen%2022.10.39.png)
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring_L_ab%20samples/samples_gen%2022.13.16.png)
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring_L_ab%20samples/samples_gen%2022.19.42.png)
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring_L_ab%20samples/samples_gen%2022.29.08.png)
+
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring_L_ab%20samples/samples_gen%2022.30.01.png)
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring_L_ab%20samples/samples_gen%2022.30.48.png)
+
 
 
 
