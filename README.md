@@ -8,6 +8,7 @@ This is the final project of the FW22 Deep Learning School on Stepic
 
 ## Maps dataset
 
+
 Сам датасет можно скачать по ссылке из Kaggle: [link](https://www.kaggle.com/datasets/vikramtiwari/pix2pix-dataset).
 
 Процесс обучения и модель представлены в [ноутбуке](maps-training-pix2pix.ipynb)
@@ -31,5 +32,12 @@ This is the final project of the FW22 Deep Learning School on Stepic
 
 ## Coloring Dataset
 
+Далее я решила обучить модель раскрашивать картины известных художников.
+
+Мной был выбран датасет [Best Artworks of All Time](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time), в котором содержатся картины 50 самых известных художников мира.
+
+Сначала я решила подавать на вход модели изображения, которые преобразовывала в оттенки серого с помощью предобработки изображения  при загрузке, а затем сконкатенированное изображение серого и сгенерированного изображения, а также серого и реального изображения подавалось на вход Дискриминатору.
+
+Как можно видеть из фото результат оказался неплохим.
 
 
