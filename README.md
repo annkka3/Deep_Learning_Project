@@ -40,14 +40,15 @@ This is the final project of the FW22 Deep Learning School on Stepic
 
 Как можно видеть из фото результат оказался неплохим. Ниже фото обучения и валидации сети на датасете Claude Monet:
 
-![Иллюстрация к проекту]![https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2012.02.11.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2012.02.11.png)
 
-![Иллюстрация к проекту]![https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2012.02.22.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2012.03.49.png))
 
 
-![Иллюстрация к проекту]![https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2012.03.49.png)
+![Иллюстрация к проекту]((https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2014.53.52.png))
 
-![Иллюстрация к проекту]![https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2014.53.52.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2014.54.38.png)
+
 
 А вот обучение на датасете Kazimir Malevich:
 
@@ -60,7 +61,7 @@ This is the final project of the FW22 Deep Learning School on Stepic
 
 ![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Malevich/samples_gen%2015.05.33.png)
 
-Примеры результатов можно увидеть в следующей папке Coloring from Grayscale [link](https://github.com/annkka3/Deep_Learning_Project/tree/main/Coloring%20from%20grayscale)
+Больше примеров результатов можно увидеть в следующей папке Coloring from Grayscale [link](https://github.com/annkka3/Deep_Learning_Project/tree/main/Coloring%20from%20grayscale)
 
 
 
