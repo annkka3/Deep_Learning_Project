@@ -40,30 +40,30 @@ This is the final project of the FW22 Deep Learning School on Stepic
 
 Весь процесс обучения представлен в [ноутбуке](https://github.com/annkka3/Deep_Learning_Project/blob/main/pix2pix-coloring-from-grayscale.ipynb)
 
-Здесь сохранены веса обученной модели, их можно скачать по ссылке для [Monet.](https://drive.google.com/file/d/1vidu5XTOFlKyQIKMJAmXnCN9ZLKR6Ano/view?usp=share_link) [Malevich](https://drive.google.com/file/d/11yCKZPq8m7DSqYI4CqgrSPILB8hKnizE/view?usp=share_link)
+Здесь сохранены веса обученной модели, их можно скачать по ссылке для [Monet](https://drive.google.com/file/d/1vidu5XTOFlKyQIKMJAmXnCN9ZLKR6Ano/view?usp=share_link) и для [Malevich](https://drive.google.com/file/d/11yCKZPq8m7DSqYI4CqgrSPILB8hKnizE/view?usp=share_link)
 
 Как можно видеть из фото результат оказался неплохим. Ниже фото обучения сети на датасете Claude Monet:
 
-![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2012.02.11.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale%20samples/Monet/samples_gen%2012.02.11.png)
 
-![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2012.03.49.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale%20samples/Monet/samples_gen%2012.03.49.png)
 
 
-![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2014.53.52.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale%20samples/Monet/samples_gen%2014.53.52.png)
 
-![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2014.54.38.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale%20samples/Monet/samples_gen%2014.54.38.png)
 
 
 А вот обучение на датасете Kazimir Malevich:
 
-![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Malevich/samples_gen%2015.02.42.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale%20samples/Malevich/samples_gen%2015.02.42.png)
 
-![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Malevich/samples_gen%2015.02.28.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale%20samples/Malevich/samples_gen%2015.02.28.png)
 
 
-![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Malevich/samples_gen%2015.05.47.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale%20samples/Malevich/samples_gen%2015.05.47.png)
 
-![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Malevich/samples_gen%2015.05.33.png)
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale%20samples/Malevich/samples_gen%2015.05.33.png)
 
 Больше примеров результатов можно увидеть в следующей папке Coloring from Grayscale [link](https://github.com/annkka3/Deep_Learning_Project/tree/main/Coloring%20from%20grayscale)
 
