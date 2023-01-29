@@ -79,7 +79,9 @@
 
 Для обучения используем тот же датасет [Best Artworks of All Time](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time), в котором содержатся картины 50 самых известных художников мира.
 
-Полный процесс обучения представлен в [ноутбуке]()
+Полный процесс обучения представлен в [ноутбуке](https://github.com/annkka3/Deep_Learning_Project/blob/main/coloring-with-pix2pix-l-ab.ipynb)
+
+В ноутбуке в конце также имеется функция ## gen_and_print, которая генерирует из изображения (по заданному пути) и отрисовывает оригинальное и сгенерированное изображние.
 
 Здесь сохранены веса обученной модели, их можно скачать по ссылкам для каждого из художников:
 
@@ -98,9 +100,6 @@
 
 И как мы можем увидеть из полученный изображений результат действительно намного лучше:
 
-
-
-Полный каталог с иллюстрациями полученными в обучении представлен ниже в папке [Coloring_L_ab samples](https://github.com/annkka3/Deep_Learning_Project/tree/main/Coloring_L_ab%20samples)
 
 ![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring_L_ab%20samples/samples_gen%2021.53.40.png)
 
@@ -129,6 +128,7 @@
 
 
 
+Полный каталог с иллюстрациями полученными в обучении представлен ниже в папке [Coloring_L_ab samples](https://github.com/annkka3/Deep_Learning_Project/tree/main/Coloring_L_ab%20samples)
 
 
 
