@@ -38,6 +38,31 @@ This is the final project of the FW22 Deep Learning School on Stepic
 
 Сначала я решила подавать на вход модели изображения, которые преобразовывала в оттенки серого с помощью предобработки изображения  при загрузке, а затем сконкатенированное изображение серого и сгенерированного изображения, а также серого и реального изображения подавалось на вход Дискриминатору.
 
-Как можно видеть из фото результат оказался неплохим.
+Как можно видеть из фото результат оказался неплохим. Ниже фото обучения и валидации сети на датасете Claude Monet:
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2012.02.11.png)
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2012.03.49.png))
+
+
+![Иллюстрация к проекту]((https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2014.53.52.png))
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Monet/samples_gen%2014.54.38.png)
+
+
+А вот обучение на датасете Kazimir Malevich:
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Malevich/samples_gen%2015.02.42.png)
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Malevich/samples_gen%2015.02.28.png)
+
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Malevich/samples_gen%2015.05.47.png)
+
+![Иллюстрация к проекту](https://github.com/annkka3/Deep_Learning_Project/blob/main/Coloring%20from%20grayscale/Malevich/samples_gen%2015.05.33.png)
+
+Больше примеров результатов можно увидеть в следующей папке Coloring from Grayscale [link](https://github.com/annkka3/Deep_Learning_Project/tree/main/Coloring%20from%20grayscale)
+
+
 
 
